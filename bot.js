@@ -325,4 +325,4 @@ client.on('message', message => {
     }
     })
 
-client.login("NDYxMzYzNjE4ODU3MDkxMDgy.DhSN7g.NVgO7rwHYIsQ8BCONHk34yT51fU");
+client.login("");
